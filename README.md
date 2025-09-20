@@ -12,6 +12,7 @@ description: "全面评测香港高防服务器，从价格、防御能力、硬
 
 ---
 #  [香港高防服务器评测：价格、硬件防火墙、防御能力与线路带宽全面解析](https://www.hostifyx.com/zh/hk-ddos/) 
+TG: [@HostifyX_Aaron](https://t.me/HostifyX_Aaron)
 
 ## 📑 目录
 - [一、香港高防服务器价格与套餐对比](#一香港高防服务器价格与套餐对比)
